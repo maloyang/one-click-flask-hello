@@ -14,7 +14,7 @@
 
 - 接著是在你的repo上根目錄下放一個 app.json 檔，格式：
 - 其實也只有前三個是必要的，可以看一下目前這一個「one-click-flask-hello」repo內的app.json檔就會了解
-<code>
+<code><pre>
 {
   "name": "Node.js Sample",
   "description": "A barebones Node.js app using Express 4",
@@ -22,7 +22,7 @@
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": ["node", "express", "static"]
 }
-</code>
+</pre></code>
 
 - 只要完成了以上的事，就可以做一個快速佈署鍵給大家使用!!
 
