@@ -1,0 +1,5 @@
+{
+    "name": "flask hello",
+    "description": "a basic flask @ heroku demo",
+    "repository": "https://github.com/maloyang/one-click-flask-hello"
+}
