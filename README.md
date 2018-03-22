@@ -11,9 +11,9 @@
 ### 說明如下
 - 如下，要加入這一段，就可以產生按鈕，可以參考[這邊](https://devcenter.heroku.com/articles/heroku-button)
 
-<code><pre>
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-</pre></code>
+
+`[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)`
+
 
 - 這一個App有幾個元素，是一個App最基本的三個檔案：
     - app.py: 主程式
